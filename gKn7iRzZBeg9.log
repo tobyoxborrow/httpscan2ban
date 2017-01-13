@@ -1,0 +1,23 @@
+# This is an example log from my live system
+# Entries are real villians (circa 2009)
+
+Mar 02 18:57:02	IP=160.75.16.191	URI=/roundcube//bin/msgimport
+Mar 02 19:49:15	IP=61.156.31.50	URI=/manager/html
+Mar 03 12:19:26	IP=72.21.6.70	URI=/user/soapCaller.bs
+Mar 04 02:48:38	IP=85.91.96.54	URI=/user/soapCaller.bs
+Mar 04 23:59:06	IP=60.216.84.2	URI=/manager/html
+Mar 06 09:57:10	IP=200.19.191.98	URI=/roundcube/CHANGELOG
+Mar 06 09:57:14	IP=200.19.191.98	URI=/mail/CHANGELOG
+Mar 06 09:57:15	IP=200.19.191.98	URI=/webmail/CHANGELOG
+Mar 06 09:57:16	IP=200.19.191.98	URI=/roundcubemail/CHANGELOG
+Mar 08 11:14:36	IP=66.239.34.55	URI=/roundcubemail-0.1/bin/msgimport
+Mar 08 11:14:37	IP=66.239.34.55	URI=/roundcubemail/bin/msgimport
+Mar 08 11:14:37	IP=66.239.34.55	URI=/roundcubemail-0.2/bin/msgimport
+Mar 08 11:14:38	IP=66.239.34.55	URI=/roundcube-0.1/bin/msgimport
+Mar 08 12:59:25	IP=211.95.78.73	URI=http://www.ocnar.com/cgi-bin/textenv.pl
+Mar 08 12:59:26	IP=211.95.78.73	URI=http://www.ocnar.com/cgi-bin/textenv.pl
+Mar 08 20:51:34	IP=82.77.20.77	URI=/user/soapCaller.bs
+Mar 08 21:17:56	IP=222.130.88.148	URI=/manager/html
+Mar 08 21:17:57	IP=222.130.88.148	URI=/manager/html
+Mar 09 13:08:02	IP=195.22.101.58	URI=/user/soapCaller.bs
+Mar 09 18:07:22	IP=222.130.93.102	URI=/manager/html
